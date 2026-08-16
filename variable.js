@@ -76,5 +76,5 @@ let o = {
 }
 console.log(o); // If you printe console.log("") with double quotation they print the variable value exact like the console value and if you print console.log without quotations they print the answer of the function - 
 
-o.Salary = "50 LPA", o.Experience = "3 Years", o.is_handsome = "true";r // If you add item in the function target the assign value and using assign vallue dot etc and print it again -
+o.Salary = "50 LPA", o.Experience = "3 Years", o.is_handsome = "true"; // If you add item in the function target the assign value and using assign vallue dot etc and print it again -
 console.log(o);
