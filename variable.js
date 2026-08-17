@@ -78,3 +78,12 @@ console.log(o); // If you printe console.log("") with double quotation they prin
 
 o.Salary = "50 LPA", o.Experience = "3 Years", o.is_handsome = "true"; // If you add item in the function target the assign value and using assign vallue dot etc and print it again -
 console.log(o);
+
+
+
+
+
+
+
+
+
