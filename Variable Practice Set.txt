@@ -1,0 +1,14 @@
+Question NO 1:
+Create a variable of type string and try to add a number to it-
+
+Question NO 2:
+Use typeof operator to find the datatype of the string in last option-
+
+Question NO 3:
+Create a const object in javascript . Can you change it to hold a number later ?
+
+Question NO 4:
+Try to add a new key to the const object in Problem 3 . Were you able to do it?
+
+Question NO 5:
+Write a JS program to create a word-meaning dictionary of five words-
