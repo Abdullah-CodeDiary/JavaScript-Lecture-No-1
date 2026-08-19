@@ -10,9 +10,7 @@ I am a web developer, and here I upload my daily practice code and small concept
 - Rules for naming variables
 - Primitive Data Types (Strings, Numbers, Booleans, Null, Undefined)
 - Basic Objects and Dot Notation
-- Logical Operators
-- Arithmetic Operators , Comparison Operator
-- Also learn ( Conditional Statment , JavaScript ternary Operators)
+
 
 ---
 *Feel free to check out the code! If you are also a beginner, this might help you.*
