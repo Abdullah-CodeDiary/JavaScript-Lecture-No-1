@@ -151,14 +151,14 @@ if (age>10){
 let foodItems = "burger";
 switch (foodItems){
     case "Burger":
-        console.log("Burger ki price 500 PKR hai. Order confirm!")
+        console.log("The Price of burger is 500 PKR - Please confirm your order")
         break;
         case "Pizza":
-            console.log("Pizza ki price 1200 PKR hai. Order confirm!")
+            console.log("The Price of burger is 1200 PKR - Please confirm your order")
             break;
             case "Biryani":
-                console.log("Biryani ki price 350 PKR hai. Order confirm!")
+                console.log("The Price of burger is 400 PKR - Please conform your order!")
                 break;
                 default:
-                    console.log("Maaf kijiye, yeh item menu mein mojood nahi hai.")
+                    console.log("I'm sorry menu is not avialable.")
 }
