@@ -148,7 +148,7 @@ if (age>10){
 
 //"A switch statement is a conditional programming statement used to check multiple possible options or conditions for a single variable, making it a cleaner alternative to writing many if-else statements."
 
-let foodItems = "burger";
+let foodItems = "Burger";
 switch (foodItems){
     case "Burger":
         console.log("The Price of burger is 500 PKR - Please confirm your order")
